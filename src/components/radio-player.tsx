@@ -30,7 +30,7 @@ export function RadioPlayer() {
         <div className="space-y-2">
           <div className="flex items-center gap-2 text-sm text-amber-800">
             <span>สถานี:</span>
-            <span className="font-medium">ธรรมะสวัสดี FM 99.9</span>
+            <span className="font-medium">ธรรมะสวัสดี FM 95.5</span>
           </div>
           <div className="flex items-center gap-2 text-sm text-amber-800">
             <span>รายการ:</span>
