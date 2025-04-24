@@ -14,7 +14,7 @@ export function RadioPlayer() {
             <div className="text-4xl">📻</div>
             <div>
               <CardTitle className="text-xl text-amber-900">วิทยุธรรมะออนไลน์</CardTitle>
-              <CardDescription className="text-amber-800">ฟังธรรมะสด 24 ชั่วโมง</CardDescription>
+              <CardDescription className="text-amber-800">ฟังธรรมะสด 25 ชั่วโมง</CardDescription>
             </div>
           </div>
           <Button
